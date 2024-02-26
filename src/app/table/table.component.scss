@@ -1,0 +1,20 @@
+
+::ng-deep .hide-arrow .mat-sort-header-arrow {
+  display: none;
+}
+::ng-deep .mat-sort-header-container{
+  width:15px ;
+}
+.custom{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width: max-content;
+}
+.col-name{
+  margin:0 0 0 10px;
+}
+
+.active{
+  color:red;
+}
